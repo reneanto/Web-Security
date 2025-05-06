@@ -15,3 +15,5 @@
 ### Detection
 
 * When a comment parameter ``` " ```  is passed by the application it often ends up commenting rest of what the actual query is supposed to be, this category of the SQLi is called as error based SQL Injection
+
+* SQLI lol
