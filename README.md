@@ -4,9 +4,9 @@
 
 ## OWASP Top Ten 2021
 
-[A01:2021 - Broken Access Control](/Owasp-Top-Ten-2021/broken-access-control.md)
+* [A01:2021 - Broken Access Control](/Owasp-Top-Ten-2021/broken-access-control.md)
 
-[A10:2021 -Server Side Request Forgery](/Owasp-Top-Ten-2021/Server Side Request Forgery.md)
+* [A10:2021 -Server Side Request Forgery](/Owasp-Top-Ten-2021/Server-Side-Request-Forgery.md)
 
 ## OWASP Top Ten 2017
 
