@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Path-Traversal"
             }
+          },
+          {
+            "id": "26ad271ac810aba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP-Top-Ten-2017/XSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XSS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5248db942505bfff",
@@ -175,11 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16131b25d13e849a",
+  "active": "5e6ca1ea8e918903",
   "lastOpenFiles": [
+    "Path-Traversal.md",
+    "OWASP-Top-Ten-2017/XSS.md",
     "README.md",
     "Owasp-Top-Ten-2021/Server-Side-Request-Forgery.md",
-    "Path-Traversal.md",
     "OWASP-Top-Ten-2017/Injection.md",
     "OWASP-Top-Ten-2017",
     "Owasp-Top-Ten-2021/broken-access-control.md",
