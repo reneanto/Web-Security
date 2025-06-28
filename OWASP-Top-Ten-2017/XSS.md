@@ -23,3 +23,9 @@ The different kinds of XSS are
 * Stored XSS is the result of the script being executed on the browser/client side whenever the resource is being visited, which is the script/malicious code being loaded from the backend/server which was stored onto it in a previous request.
 
 * This is exploited via resources which are stored on the backend/server and are being fetched whenever they are visited/requested such as Posts,Comments,Images etc etc...
+
+## DOM XSS
+
+**Definition**
+
+* Dom based XSS is where the attacker makes use  of a sink that isn't sanitized properly and which directly results when the script is injected into a source via the DOM elements i.e. User Input.
