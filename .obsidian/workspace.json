@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "XSS"
             }
+          },
+          {
+            "id": "bfed722aa6c05132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSRF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSRF"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,10 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e6ca1ea8e918903",
+  "active": "bfed722aa6c05132",
   "lastOpenFiles": [
-    "Path-Traversal.md",
     "OWASP-Top-Ten-2017/XSS.md",
+    "CSRF.md",
+    "Path-Traversal.md",
     "README.md",
     "Owasp-Top-Ten-2021/Server-Side-Request-Forgery.md",
     "OWASP-Top-Ten-2017/Injection.md",
