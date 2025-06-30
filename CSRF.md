@@ -17,3 +17,13 @@ Prevention:
 * Using Anti-Csrf Tokens in the request such as `xsrf-token:` header or `double submit cookie` methods.
 * SameSite setting  being set to either `None` or `lax` according to the application's functionality.
 * Validation based on the `Refere:` header.
+
+Bypasses:
+
+* changing the method type, i.e change the method `POST` to `GET` or `PUT` .
+* Stagnant CSRF token or the application is not checking for CSRF token value even if the token is present.
+* CSRF token not tied to a specific user's session
+* CSRF token and session handling are not integrated together
+* using an arbitrary value in double submit cookie where the application doesn't validate the same.
+* Application's not actually checking  for a referer header.
+* If the application expects a regex in the referer then we can use a controlled domain that starts with the regex.
