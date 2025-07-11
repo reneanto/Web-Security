@@ -15,5 +15,5 @@
 ## General Web Security Vulnerabilities
 
 * [Path Traversal](./Web Vulnerabilities/Path-Traversal.md)
-* [CSRF](./Web Vulnerabilities/CSRF)
-* [LFI](./Web Vulnerabilities/LFI)
+* [CSRF](./Web Vulnerabilities/CSRF.md)
+* [LFI](./Web Vulnerabilities/LFI.md)
