@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "CSRF"
             }
+          },
+          {
+            "id": "26691697985a847f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LFI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LFI"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,10 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfed722aa6c05132",
+  "active": "26691697985a847f",
   "lastOpenFiles": [
-    "OWASP-Top-Ten-2017/XSS.md",
     "CSRF.md",
+    "LFI.md",
+    "OWASP-Top-Ten-2017/XSS.md",
     "Path-Traversal.md",
     "README.md",
     "Owasp-Top-Ten-2021/Server-Side-Request-Forgery.md",
