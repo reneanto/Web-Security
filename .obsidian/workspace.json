@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Owasp-Top-Ten-2021/broken-access-control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "broken-access-control"
             }
           }
         ],
@@ -219,6 +219,9 @@
   },
   "active": "26691697985a847f",
   "lastOpenFiles": [
+    "Owasp-Top-Ten-2021/Server-Side-Request-Forgery.md",
+    "Owasp-Top-Ten-2021/broken-access-control.md",
+    "README.md",
     "Web-Vulnerabilities/Path-Traversal.md",
     "Web-Vulnerabilities/LFI.md",
     "Web-Vulnerabilities/CSRF.md",
@@ -229,10 +232,7 @@
     "Web Vulnerabilities/CSRF.md",
     "OWASP-Top-Ten-2017/XSS.md",
     "Web Vulnerabilities/Path-Traversal.md",
-    "README.md",
-    "Owasp-Top-Ten-2021/Server-Side-Request-Forgery.md",
     "OWASP-Top-Ten-2017",
-    "Owasp-Top-Ten-2021/broken-access-control.md",
     "Owasp-Top-Ten-2021"
   ]
 }
