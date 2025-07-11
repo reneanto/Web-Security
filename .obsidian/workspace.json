@@ -219,6 +219,10 @@
   },
   "active": "26691697985a847f",
   "lastOpenFiles": [
+    "Web-Vulnerabilities/Path-Traversal.md",
+    "Web-Vulnerabilities/LFI.md",
+    "Web-Vulnerabilities/CSRF.md",
+    "Web-Vulnerabilities",
     "OWASP-Top-Ten-2017/Injection.md",
     "Web Vulnerabilities/LFI.md",
     "Web Vulnerabilities",
