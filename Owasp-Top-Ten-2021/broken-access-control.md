@@ -18,7 +18,7 @@ https://www.target.com/admin/dashboard
 ## IDOR
 
 * IDOR known as Indirect Object Reference, is a web security vulnerability where the web application fails to implement access control checks on objects.
-* An object can be a user,data,services etc.., when a reference is being made to them by the web application, i.e. the object is requested by user and the application presents it without checking if the user has the right privileges to access this object.
+* An object can be a file, data, services etc.., when a reference is being made to them by the web application, i.e. the object is requested by user and the application presents it without checking if the user has the right privileges to access this object.
 * When a call is being made to check status of the user like
 
 ```
